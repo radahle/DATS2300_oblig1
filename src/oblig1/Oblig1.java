@@ -290,10 +290,6 @@ public class Oblig1 {
     }
 
     public static void main(String[] args) {
-        int[] tabell = new int[]{2, 3, 1, 4, 5, 6};
-        int[] b = Oblig1Test.randPerm(10);
-        //System.out.println(Arrays.toString(b));
-        System.out.println(Arrays.toString(tredjeMin(tabell)));
 
     }
 
